@@ -1,4 +1,4 @@
-# PAARK CONTROL
+# PARK CONTROL
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/raphafulldev/assets/blob/main/LICENSE) 
 
 # Sobre o projeto
