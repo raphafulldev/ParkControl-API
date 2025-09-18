@@ -1,16 +1,23 @@
 # PARK CONTROL
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/raphafulldev/assets/blob/main/LICENSE) 
 
-# Sobre o projeto
+# 🅿️ Estacionamento - CRUD de Vagas  
 
-O recurso trabalhado nessa API, será para gerenciar vagas de estacionamento.
+Um sistema simples para gerenciamento de vagas de estacionamento, desenvolvido como projeto de estudo para praticar operações **CRUD** (Create, Read, Update, Delete).  
 
-## Objetivos do Projeto
-- Implementar modelo de domínio
-- Estruturar camadas lógicas: controller, service, repository
-- Utilização do Postgree
-- Povoar o banco de dados
-- CRUD - Create, Read, Update, Delete
+## 🚀 Funcionalidades  
+- 🆕 Cadastrar novas vagas de estacionamento  
+- 📋 Listar todas as vagas disponíveis e ocupadas  
+- ✏️ Editar informações de uma vaga (status, número, etc.)  
+- 🗑️ Excluir vagas do sistema  
+
+## 🛠️ Tecnologias Utilizadas  
+- **Linguagem:** [adicione aqui, ex: Java, Python, JavaScript...]  
+- **Framework/Biblioteca:** [adicione aqui, ex: Spring Boot, Flask, Express...]  
+- **Banco de Dados:** [adicione aqui, ex: MySQL, MongoDB, SQLite...]  
+
+## 📂 Estrutura do Projeto  
+
 
 
 ## Foi implementado o padrão de projetos REST, visando romper a comunicação direta entre a camada de vizualização da camada de modelo de negócio.
